@@ -8,7 +8,7 @@
 /[Ll]ibrary/
 sysinfo.txt
 *.stackdump
-/Assets/*
+/Assets/2D Platformer Assets*
 *.apk
 *.unitypackage
  
